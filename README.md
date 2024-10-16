@@ -9,7 +9,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,js,ts,react,css,windicss,git,jenkins,java,spring,mongodb,selenium)](https://skillicons.dev)
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,js,ts,react,css,windicss,git,jenkins,java,spring,mongodb,selenium)<br/>
 ![Code Wars banner](https://www.codewars.com/users/Jonsen/badges/micro) 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonsen22&show_icons=true&locale=en" alt="jonsen22" /></p>
