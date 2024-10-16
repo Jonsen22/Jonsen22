@@ -1,5 +1,5 @@
 ## Hi there 👋
-!(https://www.codewars.com/users/Jonsen/badges/micro)
+![Code Wars banner](https://www.codewars.com/users/Jonsen/badges/micro)
 
 <!--
 **Jonsen22/Jonsen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
